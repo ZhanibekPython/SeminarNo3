@@ -31,6 +31,7 @@ git status
 обратной стороны.
 
 ## Добавление картинок
+another attempt to solve a merge with a conflict
 
 
 
